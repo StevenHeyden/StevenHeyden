@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 About Me
+##### **Nationality:** El Salvador :el_salvador:
+##### **Contact:** +503-7672-8251 :iphone:
+##### **Twitter:** [@steven_heyden] :bird:
+##### 🌱 I’m currently learning the Responsive Web Design course from freecodecamp.org
